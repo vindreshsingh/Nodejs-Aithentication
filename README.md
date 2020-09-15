@@ -1,5 +1,5 @@
 # NodeJS Authentication App
-> This is the complete authentication for signin,signup,signout and reset password our password using your email application.This is completely develop using Node-js,monoose,nodemailer for mail sent,JWT for athenticate,express js and use connect-flash for showing success_msg and error_msg.
+> This is the complete authentication for signin,signup,signout and reset password our password using your email application.This is completely develop using Node-js,mongoose,nodemailer for mail sent,JWT for athenticate,express js and use connect-flash for showing success_msg and error_msg.
 
 
 ## Web App Link
