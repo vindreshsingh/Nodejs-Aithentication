@@ -48,17 +48,17 @@ Nodejs-Authentication <br>
 ├── assets <br>
 │ --- ├── forgot.svg <br>
 │ --- ├── login-images.svg <br>
-|-----|___register.png
-|-----|___reset.svg
+| ---|___register.png <br>
+| ---|___reset.svg <br>
 │ --- └── css <br>
-│ -------- └── bootstrap.min.css <br>
+│ ---- └── bootstrap.min.css <br>
 ├── config <br>
 │ --- ├── checkAuth.js <br>
 │ --- └── passport.js <br>
 ├── controllers <br>
-│ --- └──login-logout.js
-| --- |___register.js
-| --- |___reset.js
+│ --- └──login-logout.js <br>
+| --- |___register.js <br>
+| --- |___reset.js <br>
 ├── models <br>
 │ --- └── User.js <br>
 ├── node_modules <br>
