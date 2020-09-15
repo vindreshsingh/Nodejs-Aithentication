@@ -3,9 +3,7 @@
 
 
 ## Web App Link
-http://serene-headland-22338.herokuapp.com/
 
-![Screenshot (4)](https://user-images.githubusercontent.com/49118089/90341145-b776a900-e01a-11ea-93c8-4f6864a141c1.png)
 
 ## Tech Stack
 1.  NodeJS
