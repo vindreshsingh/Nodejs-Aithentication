@@ -70,11 +70,13 @@ Nodejs-Authentication <br>
 │ --- ├── auth.js <br>
 │ --- └── index.js <br>
 ├── views <br>
+│ --- └── partials <br>
+│ -------- └── flash-message.ejs <br>
+│ -------- └── password-form.ejs <br>
 │ --- ├── dash.ejs <br>
 │ --- ├── forgot.ejs <br>
 │ --- ├── layout.ejs <br>
 │ --- ├── login.ejs <br>
-│ --- ├── messages.ejs <br>
 │ --- ├── register.ejs <br>
 │ --- ├── reset.ejs <br>
 │ --- └── welcome.ejs <br>
